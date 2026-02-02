@@ -1,4 +1,4 @@
-# Adversarial Sujet
+# Adversarial Sujet (TP5 S1)
 
 This is the base repository for TP5. You can find the TP5 assignment [here](https://www.lamsade.dauphine.fr/~averine/DL3AIISO/TP5.pdf).
 
